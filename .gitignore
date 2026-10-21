@@ -1,7 +1,5 @@
 node_modules
 dist
-.env
-.env.local
 .DS_Store
 *.log
 coverage
@@ -11,3 +9,8 @@ package-lock.json
 commit.sh
 pr.txt
 /docs
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
